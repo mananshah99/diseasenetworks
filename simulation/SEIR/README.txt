@@ -1,0 +1,1 @@
+Sections of this model were derived from open source code released at https://github.com/nicholasyager/airport-disease-modeling.
